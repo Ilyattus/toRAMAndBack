@@ -1,4 +1,3 @@
-import xml.dom.minidom as md
 from metadata import Schema, Constraint, Domain, Field, Index, Table
 
 def xml_to_ram(xml):
